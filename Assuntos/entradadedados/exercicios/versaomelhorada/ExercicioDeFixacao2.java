@@ -1,4 +1,4 @@
-package entradadedados.exercicios;
+package entradadedados.exercicios.versaomelhorada;
 
 import java.util.Locale;
 
